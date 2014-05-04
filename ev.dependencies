@@ -5,6 +5,11 @@
     "dep_type": "device"
   },
   {
+    "repository": "android_vendor_asus",
+    "target_path": "/vendor/asus/",
+    "dep_type": "hardware"
+  },
+  {
     "repository":   "android_kernel_asus_flo",
     "target_path":  "kernel/asus/flo",
     "dep_type": "kernel"
